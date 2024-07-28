@@ -1,4 +1,4 @@
-**Student Grade Calculator**
+**Student Grade Calculator**: 
 A C++ console application for managing and calculating student grades. This program allows users to add student records, input their marks for assignments, quizzes, and exams, and calculate their final grades based on customizable weightages. It includes features to display student details, modify marks, adjust weightages, and handle invalid input robustly.
 
 _Features_:
