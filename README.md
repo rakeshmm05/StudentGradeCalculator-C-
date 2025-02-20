@@ -20,3 +20,9 @@ Say hello to **Student Grade Calculator** – a **C++ console application** that
 1. **Clone the repository:**  
    ```bash
    git clone https://github.com/rakeshmm05/Student-Grade-Calculator.git
+2. **Compile and Run:**
+   ```bash
+   g++ grade_calculator.cpp -o grade_calculator
+   ./grade_calculator
+3. **Follow the prompts to manage student grades!**
+
